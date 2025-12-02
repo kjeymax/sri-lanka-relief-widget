@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Infeed Demo</title>
+  <style>html,body{height:100%;margin:0;background:transparent}</style>
+</head>
+<body>
+  <div style="padding:20px;font-family:sans-serif;">
+    <h3>Blog Content Example</h3>
+    <p>This simulates a blog area where infeed is injected.</p>
+  </div>
+  <script>
+    window.HSL_CONFIG = {
+      variant: "infeed",
+      target_selector: "body",
+      modal_title: "In-Feed Demo",
+      modal_body: "This card appears inline with content."
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/gh/kjeymax/hd-danmaku@main/slfloods-fg.js"></script>
+  <div style="height:600px"></div>
+</body>
+</html>
