@@ -5,6 +5,9 @@ Designed for **Sinhala & English**, fully responsive, and CDN-ready.
 
 Supports multiple visual layouts (variants) that can be embedded anywhere in your site with a single script.
 
+🔗 **Live Demo:**  
+https://kjeymax.github.io/sri-lanka-relief-widget/demo/demo.html
+
 ---
 
 ## ✨ Features
@@ -21,6 +24,8 @@ Supports multiple visual layouts (variants) that can be embedded anywhere in you
 - ✅ CDN ready via jsDelivr
 - ✅ Custom placement & target selector
 - ✅ Clean UI with modern animations
+- ✅ Works with WordPress, Blogger, React, plain HTML
+- ✅ Compatible with GitHub Pages
 
 ---
 
