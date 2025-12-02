@@ -282,7 +282,7 @@
           <div class="sl-org-logo">🏛️</div>
           <div class="sl-org-details">
             <span class="sl-org-name">Donate.gov.lk</span>
-            <span class="sl-org-desc">රාජ්‍ය දායකත්ව ද්වාරය</span>
+            <span class="sl-org-desc">State Donate Gateway</span>
           </div>
           <a href="https://donate.gov.lk/" target="_blank" class="sl-donate-btn-sm btn-gov">Donate</a>
         </div>
@@ -290,7 +290,7 @@
           <div class="sl-org-logo">🌊</div>
           <div class="sl-org-details">
             <span class="sl-org-name">FloodSupport.org</span>
-            <span class="sl-org-desc">ආපදා සහන සේවාවන්</span>
+            <span class="sl-org-desc">Disaster relief services</span>
           </div>
           <a href="https://floodsupport.org/" target="_blank" class="sl-donate-btn-sm btn-flood">Support</a>
         </div>
