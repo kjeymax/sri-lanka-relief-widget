@@ -38,6 +38,6 @@ Choose the script based on your language requirement:
 <script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw.js"></script>
 ```
 ### ✅ English Version
-```
+```html
 <script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw-english.js"></script>
 ```
