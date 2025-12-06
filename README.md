@@ -35,9 +35,9 @@ Choose the script based on your language requirement:
 
 ### ✅ Sinhala Version
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw-v.2.js"></script>
 ```
 ### ✅ English Version
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw-english.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw-english-v.2.js"></script>
 ```
