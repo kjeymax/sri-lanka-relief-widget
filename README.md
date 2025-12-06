@@ -41,3 +41,16 @@ Choose the script based on your language requirement:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/kjeymax/sri-lanka-relief-widget@main/slrw-english-v.2.js"></script>
 ```
+
+## 📦 Configuration Guide
+```html
+<script>
+  window.HSL_CONFIG = {
+    variant: "popup",
+    placement: "bottom-right",
+    modal_title: "Your Title",
+    modal_body: "Your description text.",
+    target_selector: null
+  };
+</script>
+```
